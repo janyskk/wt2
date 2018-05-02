@@ -1,2 +1,2 @@
 AHOJ
-<?php echo "ahoj";?>
+<?php echo "Nechceme ahoj";?>
